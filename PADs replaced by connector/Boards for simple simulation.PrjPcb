@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LDYBPFTT
+DocumentUniqueId=QNPQDMBK
 
 [Document6]
 DocumentPath=PCB03.PcbDoc
@@ -241,88 +241,701 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document13]
+DocumentPath=PCB08-wide.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BSXPGKSA
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB01.html
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB02.html
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB03.html
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB04.html
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB05.html
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB06.html
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB07.html
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB08.html
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.DRR
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.EXTREP
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GBL
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GBO
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GBS
+DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB01.html
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GM2
+DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB02.html
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GTL
+DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB03.html
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GTO
+DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB04.html
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GTS
+DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB05.html
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.LDP
+DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB06.html
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.REP
+DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB07.html
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.RUL
+DocumentPath=Project Outputs for Boards for simple simulation\Design Rule Check - PCB08.html
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.REP
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument147]
 DocumentPath=Project Outputs for Boards for simple simulation\PCB01\PCB01.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\PCB02.REP
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\PCB03.REP
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\PCB06.REP
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\PCB08-wide.REP
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\PCB08.REP
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB01\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument166]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB02\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument167]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB03\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument168]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB06\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument169]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08-wide\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument170]
+DocumentPath=Project Outputs for Boards for simple simulation\PCB08\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -934,6 +1547,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
